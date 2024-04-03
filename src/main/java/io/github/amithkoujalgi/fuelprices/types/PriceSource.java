@@ -1,5 +1,5 @@
 package io.github.amithkoujalgi.fuelprices.types;
 
 public enum PriceSource {
-    NDTV, SHELL;
+    NDTV, SHELL, GOOD_RETURNS_IN;
 }

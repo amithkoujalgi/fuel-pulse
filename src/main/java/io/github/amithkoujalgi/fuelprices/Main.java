@@ -8,7 +8,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        PriceAPI priceAPI = new PriceAPI(PriceSource.NDTV);
-        System.out.println(priceAPI.fetch(City.KARNATAKA.BIDAR, FuelType.PETROL));
+        PriceAPI priceAPI = new PriceAPI(PriceSource.GOOD_RETURNS_IN);
+        System.out.println(priceAPI.fetch(City.KARNATAKA.BENGALURU_RURAL, FuelType.PETROL));
     }
 }

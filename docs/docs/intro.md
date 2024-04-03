@@ -19,6 +19,8 @@ Add the dependency to your project's `pom.xml`.
 
 Use the API to access the petrol price in Bengaluru city.
 
+Using [NDTV](https://www.ndtv.com/) source:
+
 ```java
 package io.github.amithkoujalgi.fuelprices;
 
@@ -33,6 +35,28 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
         PriceAPI priceAPI = new PriceAPI(PriceSource.NDTV);
+        priceAPI.fetch(City.KARNATAKA.BENGALURU, FuelType.PETROL);
+
+    }
+}
+```
+
+Using [Good Returns](https://www.goodreturns.in/) source:
+
+```java
+package io.github.amithkoujalgi.fuelprices;
+
+import io.github.amithkoujalgi.fuelprices.types.City;
+import io.github.amithkoujalgi.fuelprices.types.FuelType;
+import io.github.amithkoujalgi.fuelprices.types.PriceSource;
+
+import java.io.IOException;
+
+public class Main {
+
+    public static void main(String[] args) throws IOException {
+
+        PriceAPI priceAPI = new PriceAPI(PriceSource.GOOD_RETURNS_IN);
         priceAPI.fetch(City.KARNATAKA.BENGALURU, FuelType.PETROL);
 
     }
