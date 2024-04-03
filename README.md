@@ -25,6 +25,11 @@ public class Main {
     }
 }
 ```
+
+### API Spec
+
+Find the full API specifications on the [website](https://amithkoujalgi.github.io/fuel-pulse/).
+
 ### Roadmap
 
 - [ ] Add more states/cities
