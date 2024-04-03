@@ -1,8 +1,6 @@
 ### Fuel Pulse
 
-
 <img src='https://github.com/amithkoujalgi/fuel-pulse/assets/1876165/6a599fdb-226e-4cf2-81b2-0c95188dc349' width='100' alt="ollama4j-icon">
-
 
 A Java library to get the fuel prices in India by city.
 
