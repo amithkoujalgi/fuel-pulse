@@ -20,7 +20,8 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
         PriceAPI priceAPI = new PriceAPI(PriceSource.NDTV);
-        priceAPI.fetch(City.KARNATAKA.BIDAR, FuelType.PETROL);
+        
+        priceAPI.fetch(City.KARNATAKA.BENGALURU, FuelType.PETROL);
 
     }
 }
