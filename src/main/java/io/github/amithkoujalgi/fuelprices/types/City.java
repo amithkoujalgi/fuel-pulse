@@ -47,7 +47,7 @@ public class City {
         public static final String BHOJPUR = "bhojpur";
         public static final String BUXAR = "buxar";
         public static final String DARBHANGA = "darbhanga";
-        public static final String EAST_CHAMPARAN = "east champaran";
+        public static final String EAST_CHAMPARAN = "east-champaran";
         public static final String GAYA = "gaya";
         public static final String GOPALGANJ = "gopalganj";
         public static final String JAHANABAD = "jahanabad";
@@ -75,22 +75,22 @@ public class City {
         public static final String SITAMARHI = "sitamarhi";
         public static final String SUPAUL = "supaul";
         public static final String VAISHALI = "vaishali";
-        public static final String WEST_CHAMPARAN = "west champaran";
+        public static final String WEST_CHAMPARAN = "west-champaran";
     }
 
 
     public static class DELHI {
-        public static final String CENTRAL_DELHI = "central delhi";
-        public static final String DELHI_SHAHDARA = "delhi shahdara";
-        public static final String EAST_DELHI = "east delhi";
-        public static final String NEW_DELHI = "new delhi";
-        public static final String NORTH_DELHI = "north delhi";
-        public static final String NORTH_EAST_DELHI = "north east delhi";
-        public static final String NORTH_WEST_DELHI = "north west delhi";
-        public static final String SOUTH_DELHI = "south delhi";
-        public static final String SOUTH_EAST_DELHI = "south east delhi";
-        public static final String SOUTH_WEST_DELHI = "south west delhi";
-        public static final String WEST_DELHI = "west delhi";
+        public static final String CENTRAL_DELHI = "central-delhi";
+        public static final String DELHI_SHAHDARA = "delhi-shahdara";
+        public static final String EAST_DELHI = "east-delhi";
+        public static final String NEW_DELHI = "new-delhi";
+        public static final String NORTH_DELHI = "north-delhi";
+        public static final String NORTH_EAST_DELHI = "north-east-delhi";
+        public static final String NORTH_WEST_DELHI = "north-west-delhi";
+        public static final String SOUTH_DELHI = "south-delhi";
+        public static final String SOUTH_EAST_DELHI = "south-east-delhi";
+        public static final String SOUTH_WEST_DELHI = "south-west-delhi";
+        public static final String WEST_DELHI = "west-delhi";
     }
 
     public static class ASSAM {
@@ -105,15 +105,15 @@ public class City {
         public static final String DHEMAJI = "dhemaji";
         public static final String DHUBURI = "dhuburi";
         public static final String DIBRUGARH = "dibrugarh";
-        public static final String DIMA_HASAO = "dima hasao";
+        public static final String DIMA_HASAO = "dima-hasao";
         public static final String GOALPARA = "goalpara";
         public static final String GOLAGHAT = "golaghat";
         public static final String HAILAKANDI = "hailakandi";
         public static final String HOJAI = "hojai";
         public static final String JORHAT = "jorhat";
         public static final String KAMRUP = "kamrup";
-        public static final String KAMRUP_METRO = "kamrup metro";
-        public static final String KARBI_ANGLONG = "karbi anglong";
+        public static final String KAMRUP_METRO = "kamrup-metro";
+        public static final String KARBI_ANGLONG = "karbi-anglong";
         public static final String KARIMGANJ = "karimganj";
         public static final String KOKRAJHAR = "kokrajhar";
         public static final String LAKHIMPUR = "lakhimpur";
@@ -125,7 +125,7 @@ public class City {
         public static final String SONITPUR = "sonitpur";
         public static final String TINSUKIA = "tinsukia";
         public static final String UDALGURI = "udalguri";
-        public static final String WEST_KARBI_ANGLONG = "west karbi anglong";
+        public static final String WEST_KARBI_ANGLONG = "west-karbi-anglong";
     }
 
     public static class GUJARAT {
@@ -133,15 +133,15 @@ public class City {
         public static final String AMRELI = "amreli";
         public static final String ANAND = "anand";
         public static final String ARAVALLI = "aravalli";
-        public static final String BANAS_KANTHA = "banas kantha";
+        public static final String BANAS_KANTHA = "banas-kantha";
         public static final String BHARUCH = "bharuch";
         public static final String BHAVNAGAR = "bhavnagar";
         public static final String BOTAD = "botad";
         public static final String CHHOTAUDEPUR = "chhotaudepur";
         public static final String DAHOD = "dahod";
-        public static final String DEVBHUMI_DWARKA = "devbhumi dwarka";
-        public static final String GANDHI_NAGAR = "gandhi nagar";
-        public static final String GIR_SOMNATH = "gir somnath";
+        public static final String DEVBHUMI_DWARKA = "devbhumi-dwarka";
+        public static final String GANDHI_NAGAR = "gandhi-nagar";
+        public static final String GIR_SOMNATH = "gir-somnath";
         public static final String JAMNAGAR = "jamnagar";
         public static final String JUNAGADH = "junagadh";
         public static final String KHEDA = "kheda";
@@ -151,35 +151,35 @@ public class City {
         public static final String MORBI = "morbi";
         public static final String NARMADA = "narmada";
         public static final String NAVSARI = "navsari";
-        public static final String PANCH_MAHAL = "panch mahal";
+        public static final String PANCH_MAHAL = "panch-mahal";
         public static final String PATAN = "patan";
         public static final String PORBANDER = "porbander";
         public static final String RAJKOT = "rajkot";
-        public static final String SABAR_KANTHA = "sabar kantha";
+        public static final String SABAR_KANTHA = "sabar-kantha";
         public static final String SURAT = "surat";
         public static final String SURENDRANAGAR = "surendranagar";
         public static final String TAPI = "tapi";
-        public static final String THE_DANGS = "the dangs";
+        public static final String THE_DANGS = "the-dangs";
         public static final String VADODARA = "vadodara";
         public static final String VALSAD = "valsad";
     }
 
     public static class TELANGANA {
         public static final String ADILABAD = "adilabad";
-        public static final String BHADRADRI_KOTHAGUDEM = "bhadradri kothagudem";
+        public static final String BHADRADRI_KOTHAGUDEM = "bhadradri-kothagudem";
         public static final String HYDERABAD = "hyderabad";
         public static final String JAGITIAL = "jagitial";
         public static final String JANGAON = "jangaon";
-        public static final String JAYASHANKAR_BHUPALPA = "jayashankar bhupalpa";
-        public static final String JOGULAMBA_GADWAL = "jogulamba gadwal";
+        public static final String JAYASHANKAR_BHUPALPA = "jayashankar-bhupalpa";
+        public static final String JOGULAMBA_GADWAL = "jogulamba-gadwal";
         public static final String KAMAREDDY = "kamareddy";
-        public static final String KARIM_NAGAR = "karim nagar";
+        public static final String KARIM_NAGAR = "karim-nagar";
         public static final String KHAMMAM = "khammam";
-        public static final String KOMRAM_BHEEM_ASIFABA = "komram bheem asifaba";
+        public static final String KOMRAM_BHEEM_ASIFABA = "komram-bheem-asifaba";
         public static final String MAHABUBABAD = "mahabubabad";
         public static final String MANCHERIAL = "mancherial";
         public static final String MEDAK = "medak";
-        public static final String MEDCHAL_MALKAJGIRI = "medchal malkajgiri";
+        public static final String MEDCHAL_MALKAJGIRI = "medchal-malkajgiri";
         public static final String MEHABUBNAGAR = "mehabubnagar";
         public static final String MULUGU = "mulugu";
         public static final String NAGARKURNOOL = "nagarkurnool";
@@ -188,7 +188,7 @@ public class City {
         public static final String NIRMAL = "nirmal";
         public static final String NIZAMABAD = "nizamabad";
         public static final String PEDDAPALLI = "peddapalli";
-        public static final String RAJANNA_SIRCILLA = "rajanna sircilla";
+        public static final String RAJANNA_SIRCILLA = "rajanna-sircilla";
         public static final String RANGAREDDI = "rangareddi";
         public static final String SANGAREDDY = "sangareddy";
         public static final String SIDDIPET = "siddipet";
@@ -196,15 +196,15 @@ public class City {
         public static final String VIKARABAD = "vikarabad";
         public static final String WANAPARTHY = "wanaparthy";
         public static final String WARANGAL = "warangal";
-        public static final String WARANGAL_RURAL = "warangal rural";
-        public static final String YADADRI_BHUVANAGIRI = "yadadri bhuvanagiri";
+        public static final String WARANGAL_RURAL = "warangal-rural";
+        public static final String YADADRI_BHUVANAGIRI = "yadadri-bhuvanagiri";
     }
 
     public static class ANDHRA_PRADESH {
         public static final String ANANTAPUR = "anantapur";
         public static final String CHITTOOR = "chittoor";
         public static final String CUDDAPAH = "cuddapah";
-        public static final String EAST_GODAVARI = "east godavari";
+        public static final String EAST_GODAVARI = "east-godavari";
         public static final String GUNTUR = "guntur";
         public static final String KRISHNA = "krishna";
         public static final String KURNOOL = "kurnool";
@@ -213,11 +213,11 @@ public class City {
         public static final String SRIKAKULAM = "srikakulam";
         public static final String VISHAKHAPATNAM = "vishakhapatnam";
         public static final String VIZIANAGARAM = "vizianagaram";
-        public static final String WEST_GODAVARI = "west godavari";
+        public static final String WEST_GODAVARI = "west-godavari";
     }
 
     public static class MADHYA_PRADESH {
-        public static final String AGAR_MALWA = "agar malwa";
+        public static final String AGAR_MALWA = "agar-malwa";
         public static final String ALIRAJPUR = "alirajpur";
         public static final String ANUPUR = "anupur";
         public static final String ASHOKNAGAR = "ashoknagar";
@@ -378,8 +378,8 @@ public class City {
     }
 
     public static class GOA {
-        public static final String NORTH_GOA = "north goa";
-        public static final String SOUTH_GOA = "south goa";
+        public static final String NORTH_GOA = "north-goa";
+        public static final String SOUTH_GOA = "south-goa";
     }
 
     public static class ODISHA {
@@ -419,8 +419,8 @@ public class City {
         public static final String ALIPURDUAR = "alipurduar";
         public static final String BANKURA = "bankura";
         public static final String BIRBHUM = "birbhum";
-        public static final String COOCH_BIHAR = "cooch bihar";
-        public static final String DAKSHIN_DINAJPUR = "dakshin dinajpur";
+        public static final String COOCH_BIHAR = "cooch-bihar";
+        public static final String DAKSHIN_DINAJPUR = "dakshin-dinajpur";
         public static final String DARJEELING = "darjeeling";
         public static final String HOOGHLY = "hooghly";
         public static final String HOWRAH = "howrah";
@@ -431,14 +431,14 @@ public class City {
         public static final String MALDA = "malda";
         public static final String MURSHIDABAD = "murshidabad";
         public static final String NADIA = "nadia";
-        public static final String NORTH_24_PARGANAS = "north 24 parganas";
-        public static final String PASCHIM_BARDHAMAN = "paschim bardhaman";
-        public static final String PASCHIM_MEDINIPUR = "paschim medinipur";
-        public static final String PURBA_BARDHAMAN = "purba bardhaman";
-        public static final String PURBA_MEDINIPUR = "purba medinipur";
+        public static final String NORTH_24_PARGANAS = "north-24-parganas";
+        public static final String PASCHIM_BARDHAMAN = "paschim-bardhaman";
+        public static final String PASCHIM_MEDINIPUR = "paschim-medinipur";
+        public static final String PURBA_BARDHAMAN = "purba-bardhaman";
+        public static final String PURBA_MEDINIPUR = "purba-medinipur";
         public static final String PURULIA = "purulia";
-        public static final String SOUTH_24_PARGANAS = "south 24 parganas";
-        public static final String UTTAR_DINAJPUR = "uttar dinajpur";
+        public static final String SOUTH_24_PARGANAS = "south-24-parganas";
+        public static final String UTTAR_DINAJPUR = "uttar-dinajpur";
     }
 
     public static class MAHARASHTRA {
@@ -453,13 +453,13 @@ public class City {
         public static final String DHULE = "dhule";
         public static final String GADCHIROLI = "gadchiroli";
         public static final String GONDIA = "gondia";
-        public static final String GREATER_MUMBAI = "greater mumbai";
+        public static final String GREATER_MUMBAI = "greater-mumbai";
         public static final String HINGOLI = "hingoli";
         public static final String JALGAON = "jalgaon";
         public static final String JALNA = "jalna";
         public static final String KOLHAPUR = "kolhapur";
         public static final String LATUR = "latur";
-        public static final String MUMBAI_CITY = "mumbai city";
+        public static final String MUMBAI_CITY = "mumbai-city";
         public static final String NAGPUR = "nagpur";
         public static final String NANDED = "nanded";
         public static final String NANDURBAR = "nandurbar";
@@ -507,23 +507,23 @@ public class City {
     }
 
     public static class SIKKIM {
-        public static final String EAST_DISTRICT = "east district";
-        public static final String NORTH_DISTRICT = "north district";
-        public static final String SOUTH_DISTRICT = "south district";
-        public static final String WEST_DISTRICT = "west district";
+        public static final String EAST_DISTRICT = "east-district";
+        public static final String NORTH_DISTRICT = "north-district";
+        public static final String SOUTH_DISTRICT = "south-district";
+        public static final String WEST_DISTRICT = "west-district";
     }
 
     public static class MEGHALAYA {
-        public static final String EAST_GARO_HILLS = "east garo hills";
-        public static final String EAST_JAINTIA_HILLS = "east jaintia hills";
-        public static final String EAST_KHASI_HILLS = "east khasi hills";
-        public static final String JAINTIA_HILLS = "jaintia hills";
-        public static final String NORTH_GARO_HILLS = "north garo hills";
-        public static final String RI_BHOI = "ri bhoi";
-        public static final String SOUTH_GARO_HILLS = "south garo hills";
-        public static final String SOUTHWEST_KHASI_HILS = "southwest khasi hils";
-        public static final String WEST_GARO_HILLS = "west garo hills";
-        public static final String WEST_KHASI_HILLS = "west khasi hills";
+        public static final String EAST_GARO_HILLS = "east-garo-hills";
+        public static final String EAST_JAINTIA_HILLS = "east-jaintia-hills";
+        public static final String EAST_KHASI_HILLS = "east-khasi-hills";
+        public static final String JAINTIA_HILLS = "jaintia-hills";
+        public static final String NORTH_GARO_HILLS = "north-garo-hills";
+        public static final String RI_BHOI = "ri-bhoi";
+        public static final String SOUTH_GARO_HILLS = "south-garo-hills";
+        public static final String SOUTHWEST_KHASI_HILS = "southwest-khasi-hils";
+        public static final String WEST_GARO_HILLS = "west-garo-hills";
+        public static final String WEST_KHASI_HILLS = "west-khasi-hills";
     }
 
     public static class PUNJAB {
@@ -531,7 +531,7 @@ public class City {
         public static final String BARNALA = "barnala";
         public static final String BATHINDA = "bathinda";
         public static final String FARIDKOT = "faridkot";
-        public static final String FATEHGARH_SAHIB = "fatehgarh sahib";
+        public static final String FATEHGARH_SAHIB = "fatehgarh-sahib";
         public static final String FAZILKA = "fazilka";
         public static final String FIROZPUR = "firozpur";
         public static final String GURDASPUR = "gurdaspur";
@@ -546,9 +546,9 @@ public class City {
         public static final String PATIALA = "patiala";
         public static final String RUPNAGAR = "rupnagar";
         public static final String SANGRUR = "sangrur";
-        public static final String SAS_NAGAR = "sas nagar";
-        public static final String SHD_BHAGAT_SINGH_NGR = "shd bhagat singh ngr";
-        public static final String TARN_TARAN = "tarn taran";
+        public static final String SAS_NAGAR = "sas-nagar";
+        public static final String SHD_BHAGAT_SINGH_NGR = "shd-bhagat-singh-ngr";
+        public static final String TARN_TARAN = "tarn-taran";
     }
 
     public static class RAJASTHAN {
@@ -591,11 +591,11 @@ public class City {
         public static final String DHALAI = "dhalai";
         public static final String GOMATI = "gomati";
         public static final String KHOWAI = "khowai";
-        public static final String NORTH_TRIPURA = "north tripura";
+        public static final String NORTH_TRIPURA = "north-tripura";
         public static final String SEPAHIJHALA = "sepahijhala";
-        public static final String SOUTH_TRIPURA = "south tripura";
+        public static final String SOUTH_TRIPURA = "south-tripura";
         public static final String UNAKOTI = "unakoti";
-        public static final String WEST_TRIPURA = "west tripura";
+        public static final String WEST_TRIPURA = "west-tripura";
     }
 
     public static class UTTAR_PRADESH {
@@ -603,7 +603,7 @@ public class City {
         public static final String ALIGARH = "aligarh";
         public static final String ALLAHABAD = "allahabad";
         public static final String AMBEDKARNAGAR = "ambedkarnagar";
-        public static final String AMETHI_CSM_NAGAR = "amethi csm nagar";
+        public static final String AMETHI_CSM_NAGAR = "amethi-csm-nagar";
         public static final String AMROHA = "amroha";
         public static final String AURAIYA = "auraiya";
         public static final String AZAMGARH = "azamgarh";
@@ -627,7 +627,7 @@ public class City {
         public static final String FARRUKKHABAD = "farrukkhabad";
         public static final String FATEHPUR = "fatehpur";
         public static final String FIROZABAD = "firozabad";
-        public static final String GAUTAM_BUDH_NAGAR = "gautam budh nagar";
+        public static final String GAUTAM_BUDH_NAGAR = "gautam-budh-nagar";
         public static final String GHAZIABAD = "ghaziabad";
         public static final String GHAZIPUR = "ghazipur";
         public static final String GONDA = "gonda";
@@ -640,9 +640,9 @@ public class City {
         public static final String JAUNPUR = "jaunpur";
         public static final String JHANSI = "jhansi";
         public static final String KANNUAJ = "kannuaj";
-        public static final String KANPUR_RURAL = "kanpur rural";
-        public static final String KANPUR_URBAN = "kanpur urban";
-        public static final String KASHI_RAM_NAGAR = "kashi ram nagar";
+        public static final String KANPUR_RURAL = "kanpur-rural";
+        public static final String KANPUR_URBAN = "kanpur-urban";
+        public static final String KASHI_RAM_NAGAR = "kashi-ram-nagar";
         public static final String KAUSHAMBI = "kaushambi";
         public static final String KUSHINAGAR = "kushinagar";
         public static final String LAKHIMPUR = "lakhimpur";
@@ -659,12 +659,12 @@ public class City {
         public static final String MUZAFFARNAGAR = "muzaffarnagar";
         public static final String PILIBHIT = "pilibhit";
         public static final String PRATAPGARH = "pratapgarh";
-        public static final String RAE_BARELI = "rae bareli";
+        public static final String RAE_BARELI = "rae-bareli";
         public static final String RAMPUR = "rampur";
         public static final String SAHARANPUR = "saharanpur";
         public static final String SAMBHAL = "sambhal";
-        public static final String SANT_KABIR_NAGAR = "sant kabir nagar";
-        public static final String SANT_RAVI_NAGAR = "sant ravi nagar";
+        public static final String SANT_KABIR_NAGAR = "sant-kabir-nagar";
+        public static final String SANT_RAVI_NAGAR = "sant-ravi-nagar";
         public static final String SHAHJAHANPUR = "shahjahanpur";
         public static final String SHAMLI = "shamli";
         public static final String SHRAVASTI = "shravasti";
@@ -678,8 +678,8 @@ public class City {
 
     public static class ANDAMAN_AND_NICOBAR {
         public static final String NICOBAR = "nicobar";
-        public static final String NORTH_AND_MIDDLE_ANDAMAN = "north and middle andaman";
-        public static final String SOUTH_ANDAMAN = "south andaman";
+        public static final String NORTH_AND_MIDDLE_ANDAMAN = "north-and-middle-andaman";
+        public static final String SOUTH_ANDAMAN = "south-andaman";
     }
 
     public static class JHARKHAND {
@@ -688,7 +688,7 @@ public class City {
         public static final String DEOGARH = "deogarh";
         public static final String DHANBAD = "dhanbad";
         public static final String DUMKA = "dumka";
-        public static final String EAST_SINGHBHUM = "east singhbhum";
+        public static final String EAST_SINGHBHUM = "east-singhbhum";
         public static final String GARHWA = "garhwa";
         public static final String GIRIDIH = "giridih";
         public static final String GODDA = "godda";
@@ -704,15 +704,15 @@ public class City {
         public static final String RAMGARH = "ramgarh";
         public static final String RANCHI = "ranchi";
         public static final String SAHIBGANJ = "sahibganj";
-        public static final String SARAIKELA_KHARASAWAN = "saraikela kharasawan";
+        public static final String SARAIKELA_KHARASAWAN = "saraikela-kharasawan";
         public static final String SIMDEGA = "simdega";
-        public static final String WEST_SINGHBHUM = "west singhbhum";
+        public static final String WEST_SINGHBHUM = "west-singhbhum";
     }
 
     public static class HARYANA {
         public static final String AMBALA = "ambala";
         public static final String BHIWANI = "bhiwani";
-        public static final String CHARKI_DADRI = "charki dadri";
+        public static final String CHARKI_DADRI = "charki-dadri";
         public static final String FARIDABAD = "faridabad";
         public static final String FATEHABAD = "fatehabad";
         public static final String GURGAON = "gurgaon";
@@ -741,7 +741,7 @@ public class City {
         public static final String KANGRA = "kangra";
         public static final String KINNAUR = "kinnaur";
         public static final String KULLU = "kullu";
-        public static final String LAHUL_SPITI = "lahul spiti";
+        public static final String LAHUL_SPITI = "lahul-spiti";
         public static final String MANDI = "mandi";
         public static final String SHIMLA = "shimla";
         public static final String SIRMAUR = "sirmaur";
@@ -760,35 +760,35 @@ public class City {
         public static final String PAURI = "pauri";
         public static final String PITHORAGARH = "pithoragarh";
         public static final String RUDRAPRAYAG = "rudraprayag";
-        public static final String TEHRI_GARHWAL = "tehri garhwal";
-        public static final String UDHAM_SINGH_NAGAR = "udham singh nagar";
+        public static final String TEHRI_GARHWAL = "tehri-garhwal";
+        public static final String UDHAM_SINGH_NAGAR = "udham-singh-nagar";
         public static final String UTTARKASHI = "uttarkashi";
     }
 
     public static class ARUNACHAL_PRADESH {
         public static final String CHANGLANG = "changlang";
-        public static final String DIBANG_VALLEY = "dibang valley";
-        public static final String EAST_KHAMENG = "east khameng";
-        public static final String EAST_SIANG = "east siang";
+        public static final String DIBANG_VALLEY = "dibang-valley";
+        public static final String EAST_KHAMENG = "east-khameng";
+        public static final String EAST_SIANG = "east-siang";
         public static final String LOHIT = "lohit";
         public static final String LONGDING = "longding";
-        public static final String LOWER_DIBANG_VALLEY = "lower dibang valley";
-        public static final String LOWER_SUBANSIRI = "lower subansiri";
+        public static final String LOWER_DIBANG_VALLEY = "lower-dibang-valley";
+        public static final String LOWER_SUBANSIRI = "lower-subansiri";
         public static final String NAMSAI = "namsai";
         public static final String PAPUMPARE = "papumpare";
         public static final String TAWANG = "tawang";
         public static final String TIRAP = "tirap";
-        public static final String UPPER_SIANG = "upper siang";
-        public static final String UPPER_SIBANSIRI = "upper sibansiri";
-        public static final String WEST_KAMENG = "west kameng";
-        public static final String WEST_SIANG = "west siang";
+        public static final String UPPER_SIANG = "upper-siang";
+        public static final String UPPER_SIBANSIRI = "upper-sibansiri";
+        public static final String WEST_KAMENG = "west-kameng";
+        public static final String WEST_SIANG = "west-siang";
     }
 
     public static class MANIPUR {
         public static final String BISHNUPUR = "bishnupur";
         public static final String CHANDEL = "chandel";
         public static final String CHURACHANDPUR = "churachandpur";
-        public static final String EAST_IMPHAL = "east imphal";
+        public static final String EAST_IMPHAL = "east-imphal";
         public static final String JIRIBAM = "jiribam";
         public static final String KAKCHING = "kakching";
         public static final String KANGPOKPI = "kangpokpi";
@@ -799,7 +799,7 @@ public class City {
         public static final String TENGNOUPAL = "tengnoupal";
         public static final String THOUBAL = "thoubal";
         public static final String UKHRUL = "ukhrul";
-        public static final String WEST_IMPHAL = "west imphal";
+        public static final String WEST_IMPHAL = "west-imphal";
     }
 
     public static class NAGALAND {
